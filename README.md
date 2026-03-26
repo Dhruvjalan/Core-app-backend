@@ -183,7 +183,7 @@ Base URL: `http://13.61.239.146:3000`
 **Example Request:**
 
 ```http
-GET /api/check-user/e21abc123
+GET /api/check-user/de24b023
 ```
 
 **Success Response (200):**
